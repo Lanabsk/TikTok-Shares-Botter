@@ -2,4 +2,4 @@ from os import system
 
 system('pip install requests')
 print('\nFinished.')
-system('pause >NUL')
+system('pause >NUL') https://vm.tiktok.com/ZMLgfeRkF/
